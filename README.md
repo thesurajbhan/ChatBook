@@ -1,1 +1,1 @@
-# ChatBook
+The purpose of developing this project application is to enhance the student’s existing knowledge and make them more creative and innovative. This is Java based Android Messaging App will let the users communicate with the people through voice/video calling, photos, videos, and documents.
